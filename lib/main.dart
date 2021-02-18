@@ -12,8 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image:
-                NetworkImage('https://images3.alphacoders.com/823/82317.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
